@@ -1,14 +1,17 @@
 import React from "react";
+import { Typography } from "@mui/material";
 
 function UsoDidactico() {
   return (
     <div>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum dolorem
-      pariatur dolore excepturi voluptate animi accusantium numquam delectus
-      reiciendis totam quasi, magni, possimus veritatis cum atque, aperiam rem!
-      Officiis modi ullam ipsa consectetur in, ratione molestias quidem
-      quibusdam porro! Ex veniam quibusdam officiis sint animi? Quam dolorum
-      delectus cum nulla!
+      <Typography className="titles" variant="h6">
+        Uso didactico
+      </Typography>
+      <Typography>
+        No lo utilizaria como material didactico para una clase, si es un video
+        ideal para verse por interes y no para tomarlo como información, mas
+        para entretenimiento.
+      </Typography>
     </div>
   );
 }

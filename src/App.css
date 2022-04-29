@@ -38,6 +38,8 @@
 }
 
 .video-container {
+  margin-top: 2em;
+  margin-bottom: 2em;
   overflow: hidden;
   position: relative;
   width: 100%;
