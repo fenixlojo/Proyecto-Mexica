@@ -4,7 +4,7 @@ import { Typography } from "@mui/material";
 function MaterialDidactico() {
   return (
     <div>
-      <Typography sx={{ textAlign: "center" }} variant="h5">
+      <Typography className="titles" variant="h4">
         El material
       </Typography>
       <div class="video-container">
