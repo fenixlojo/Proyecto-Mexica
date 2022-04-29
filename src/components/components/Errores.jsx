@@ -7,7 +7,7 @@ function Errores() {
       <Typography className="subtitles" variant="h6">
         El origen (Aztlán)
       </Typography>
-      <Typography>
+      <Typography className="paragraph">
         El video precisa la localización de Aztlán en "El norte de Mexico y el
         sur de los Estados Unidos" , cosa incorrecta, ya que , hasta donde
         sabemos no hay una localización precisa de Aztlán y lo que sabemos sobre
@@ -20,7 +20,7 @@ function Errores() {
       <Typography className="subtitles" variant="h6">
         Tenochtitlan
       </Typography>
-      <Typography>
+      <Typography className="paragraph">
         Se cuenta una leyenda de como los Aztecas sacrifican a una princesa de
         un pueblo de vecino, lo cual causa su huida y gracias a esto es que
         encuentran el lugar donde se prensenta el aguila sobre el nopal,
@@ -34,7 +34,7 @@ function Errores() {
       <Typography className="subtitles" variant="h6">
         Reinos libres
       </Typography>
-      <Typography>
+      <Typography className="paragraph">
         Como acierto se nombra a Tlaxcala, pero se deja de lado a los demas, ya
         que estos no fueron los unicos que no sucumbieron al dominio imperial,
         otros fueron los Meztitlan,Tarasco,Mixteca,Teptitlan y otros.
@@ -42,7 +42,7 @@ function Errores() {
       <Typography className="subtitles" variant="h6">
         Mapa
       </Typography>
-      <Typography>
+      <Typography className="paragraph">
         Siguiendo lo anterior, el mapa no marca estos reinos libres, dejando
         como unico lugar no ocupado dentro de su territorio lo que
         corresponderia a Tlaxcala.
@@ -50,7 +50,7 @@ function Errores() {
       <Typography className="subtitles" variant="h6">
         Conquista (dioses)
       </Typography>
-      <Typography>
+      <Typography className="paragraph">
         Se nombra el sistema tributario postconquista, pero no como esto tambien
         incluia apropiarse de los dioses del subyugado e incorporarlos a la
         relegión oficial, esto como metodo de integración y de dejar en claro
@@ -59,7 +59,7 @@ function Errores() {
       <Typography className="subtitles" variant="h6">
         Relación de la religión con los astros
       </Typography>
-      <Typography>
+      <Typography className="paragraph">
         No se hace una relación entre los dos , sino que simplemente de los
         menciona por separado, uno siendo un conocimiento y otro siendo una
         creencia, cuando en practica estaban sumamente entrelazados,siendo una

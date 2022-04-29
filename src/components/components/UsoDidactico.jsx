@@ -7,7 +7,7 @@ function UsoDidactico() {
       <Typography className="titles" variant="h6">
         Uso didactico
       </Typography>
-      <Typography>
+      <Typography className="paragraph">
         No lo utilizaria como material didactico para una clase, si es un video
         ideal para verse por interes y no para tomarlo como información, mas
         para entretenimiento.

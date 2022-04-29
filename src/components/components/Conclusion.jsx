@@ -7,7 +7,7 @@ function Conclusion() {
       <Typography className="titles" variant="h6">
         Conclusión
       </Typography>
-      <Typography>
+      <Typography className="paragraph">
         Entendiendo el contexto , el cual es para niños quiza de 1ro de Liceo,
         el video esta acertado en la forma de presentar los materiales y en
         hacerlo de forma amigable, aun así hay temas que se podrían haber tocado

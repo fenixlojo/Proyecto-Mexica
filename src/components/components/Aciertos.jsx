@@ -7,7 +7,7 @@ function Aciertos() {
       <Typography className="subtitles" variant="h6">
         Tepanecas
       </Typography>
-      <Typography>
+      <Typography className="paragraph">
         A diferencia de muchos videos que he encontrado en la busqueda de un
         material didactico para diseccionar, este nombra el dominio Tepaneca
         sobre el pueblo Azteca, cosa que en muchos otros materiales no se
@@ -17,7 +17,7 @@ function Aciertos() {
       <Typography className="subtitles" variant="h6">
         La triple alianza
       </Typography>
-      <Typography>
+      <Typography className="paragraph">
         Otra vez se nombran elementos que no aparecen en otros materiales
         didacticos de este tipo, en este caso se muestra como el imperio no era
         solo conformado por Mexicas, sino que era una triple alianza conformada
@@ -26,14 +26,14 @@ function Aciertos() {
       <Typography className="subtitles" variant="h6">
         Imposición cultural
       </Typography>
-      <Typography>
+      <Typography className="paragraph">
         Se nombra al Nahuatl, y como este fue impuesto a los pueblos
         conquistados.
       </Typography>
       <Typography className="subtitles" variant="h6">
         Tlaxcala
       </Typography>
-      <Typography>
+      <Typography className="paragraph">
         En el mapa aparece marcado y se nombra como este territorio no fue
         conquistado por el Imperio , y se comenta como esto fue clave para su
         caída, importante mencionarlo , ya que sino caería en el error de otros
@@ -45,21 +45,21 @@ function Aciertos() {
       <Typography className="subtitles" variant="h6">
         Conquista (tributo)
       </Typography>
-      <Typography>
+      <Typography className="paragraph">
         Se nombra como el imperio cobraba tributos a los pueblos subyugados, no
         solo absorvia su territorio, como lo hacen otros materiales.
       </Typography>
       <Typography className="subtitles" variant="h6">
         Tenochtitlan
       </Typography>
-      <Typography>
+      <Typography className="paragraph">
         Se nombra lo impresionante de la ciudad, y de como fue construida en un
         territorio sumamente complicado.
       </Typography>
       <Typography className="subtitles" variant="h6">
         Chinampas
       </Typography>
-      <Typography>
+      <Typography className="paragraph">
         Se menciona a las chinampas y su sistema de agricultura , mostrando lo
         diferente que es al tipo de agricultura que mantenemos en occidente hoy
         en día.
@@ -67,7 +67,7 @@ function Aciertos() {
       <Typography className="subtitles" variant="h6">
         Tlaotani
       </Typography>
-      <Typography>
+      <Typography className="paragraph">
         Se nombra como su cargo era elegido por un consejo y no hereditario, se
         nombra su creencia en el origen divino del mismo.
       </Typography>
